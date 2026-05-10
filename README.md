@@ -87,3 +87,5 @@ Emoji:
 [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/) 
 Markup : Code appears between colons :EMOJICODE:
 :mask:  JiazhengDai 20242169
+:mask:  
+friend 1  ZekangAi 20242173
